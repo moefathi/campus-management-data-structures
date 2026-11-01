@@ -41,3 +41,6 @@ I have also included a PDF containing an edited version of my original universit
 - **Type:** Academic Project
 - **Course:** Data Structures & Algorithms
 - **Semester:** Spring 2025
+
+## License
+© 2026 Mohammad Aldeghemat. All rights reserved.
